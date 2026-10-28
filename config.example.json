@@ -1,0 +1,9 @@
+{
+  "projects_dir": "~/Library/CloudStorage/Dropbox/Shots Projects",
+  "fal_key": "PASTE-YOUR-FAL-KEY-HERE",
+  "fal_endpoint": "bytedance/seedance-2.5/reference-to-video",
+  "fal_defaults": { "resolution": "480p" },
+  "blender_path": "/Applications/Blender.app/Contents/MacOS/Blender",
+  "ffmpeg_path": "ffmpeg",
+  "port": 8765
+}
